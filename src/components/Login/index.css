@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.btn {
+  height: 2rem;
+  width: 7.8rem;
+  border: 0px solid;
+  border-radius: 5px;
+  font-weight: bold;
+}
